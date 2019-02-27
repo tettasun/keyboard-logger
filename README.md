@@ -1,8 +1,8 @@
-#keyboard-logger
+# keyboard-logger
 
 キーボードのログを取るChrome Extension
 
-#usage
+# usage
 
 キーボードを押すたびにconsoleに表示。
 controlボタンを押すとmove.csvファイルがダウンロードされる
